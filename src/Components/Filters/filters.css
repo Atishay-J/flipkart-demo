@@ -1,0 +1,25 @@
+.filterWrapper {
+  /* border: 1px solid green; */
+  box-shadow: 2px 2px 17px -5px rgba(80, 80, 80, 0.205);
+  margin-top: 1rem;
+  margin-left: 2rem;
+  padding: 1rem;
+}
+.filterInputWrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 0.4rem;
+}
+label {
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+.clearFilterBtn {
+  width: 6rem;
+  height: 2rem;
+  border: none;
+  margin-top: 2rem;
+  background: var(--col-primary);
+  color: var(--font-white);
+  cursor: pointer;
+}

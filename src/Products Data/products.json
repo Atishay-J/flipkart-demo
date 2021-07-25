@@ -1,0 +1,80 @@
+[
+  {
+    "id": "45s2",
+    "name": "Printed Men Round Neck Green T-Shirt",
+    "brandName": "METRONAUT",
+    "price": 296,
+    "originalPrice": 899,
+    "discount": "67%",
+    "size": ["S", "L"],
+    "idealFor": ["Men"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/kqttg280/t-shirt/8/s/t/m-mss21cn028b-metronaut-original-imag4rcnyvwmpfen.jpeg?q=50",
+    "isPromoted": true,
+    "ratings": 4.6
+  },
+  {
+    "id": "45s2ifK",
+    "name": "Skinny Men Grey Jeans",
+    "brandName": "METRONAUT",
+    "price": 629,
+    "originalPrice": 1899,
+    "discount": "65%",
+    "size": ["S", "L", "XL"],
+    "idealFor": ["Men"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/kqttg280/jean/y/1/c/32-mss21jn702-metronaut-original-imag4rczh5hcfnrt.jpeg?q=50",
+    "isPromoted": true,
+    "ratings": 3.6
+  },
+  {
+    "id": "45s2ifK431",
+    "name": "Color Block Round Neck Black, White T-Shirt",
+    "brandName": "FastColors",
+    "price": 600,
+    "originalPrice": 799,
+    "discount": "23%",
+    "size": ["S", "L", "M"],
+    "idealFor": ["Men", "Women"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/khdqnbk0/t-shirt/r/u/0/m-fc4173-fastcolors-original-imafxettxhthw8ye.jpeg?q=50",
+    "isPromoted": false,
+    "ratings": 4.2
+  },
+  {
+    "id": "4r56hfK431",
+    "name": "Women Kurta and Palazzo Set Cotton Blend",
+    "brandName": "Aks",
+    "price": 566,
+    "originalPrice": 2799,
+    "discount": "79%",
+    "size": ["S", "M"],
+    "idealFor": ["Women"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/ethnic-set/e/y/e/2xl-gold-ya3314-aks-ya3314-xxl-original-imafgqzvmwfkytey.jpeg?q=50",
+    "isPromoted": false,
+    "ratings": 3.9
+  },
+  {
+    "id": "4op8xifK431",
+    "name": "Women Printed Poly Crepe A-line Kurta  (Green)",
+    "brandName": "Janasya",
+    "price": 540,
+    "originalPrice": 799,
+    "discount": "39%",
+    "size": ["S", "M", "L"],
+    "idealFor": ["Women"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/juyev0w0/kurta/g/z/d/3xl-jne3291-kr-janasya-original-imaffxuhfs4cykus.jpeg?q=50",
+    "isPromoted": true,
+    "ratings": 4.8
+  },
+  {
+    "id": "4rt45htK431",
+    "name": "Striped Men Round Neck Black T-Shirt",
+    "brandName": "Janasya",
+    "price": 284,
+    "originalPrice": 799,
+    "discount": "59%",
+    "size": ["S", "M", "L", "XL"],
+    "idealFor": ["Men", "Women"],
+    "productImage": "https://rukminim1.flixcart.com/image/800/960/kpzt7680/t-shirt/t/o/r/m-m7ss21pn004a-m7-by-metronaut-original-imag433zayxajfvz.jpeg?q=50",
+    "isPromoted": true,
+    "ratings": 4.8
+  }
+]
